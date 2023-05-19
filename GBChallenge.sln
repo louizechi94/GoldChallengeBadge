@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldBadgeChallenge.Data", "GoldBadgeChallenge.Data\GoldBadgeChallenge.Data.csproj", "{B63DEF11-A7B1-46B7-B0E5-1536248498C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldBadgeChallenge.Repository", "GoldBadgeChallenge.Repository\GoldBadgeChallenge.Repository.csproj", "{3A557118-2B06-4824-BAB8-072010EFE1BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldBadgeChallenge.UI", "GoldBadgeChallenge.UI\GoldBadgeChallenge.UI.csproj", "{C50C9A02-32D9-4BBD-84EF-F0151F9BF289}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GBUniteTests", "GBUniteTests", "{006CB58D-16A9-4C5E-9B98-9062054541D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBC.Repository.Tests", "GBUniteTests\GBC.Repository.Tests\GBC.Repository.Tests.csproj", "{5C1BC0E2-6C76-401B-8865-82A2E9EFE0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63DEF11-A7B1-46B7-B0E5-1536248498C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63DEF11-A7B1-46B7-B0E5-1536248498C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63DEF11-A7B1-46B7-B0E5-1536248498C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63DEF11-A7B1-46B7-B0E5-1536248498C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A557118-2B06-4824-BAB8-072010EFE1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A557118-2B06-4824-BAB8-072010EFE1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A557118-2B06-4824-BAB8-072010EFE1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A557118-2B06-4824-BAB8-072010EFE1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50C9A02-32D9-4BBD-84EF-F0151F9BF289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50C9A02-32D9-4BBD-84EF-F0151F9BF289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50C9A02-32D9-4BBD-84EF-F0151F9BF289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50C9A02-32D9-4BBD-84EF-F0151F9BF289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1BC0E2-6C76-401B-8865-82A2E9EFE0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1BC0E2-6C76-401B-8865-82A2E9EFE0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1BC0E2-6C76-401B-8865-82A2E9EFE0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1BC0E2-6C76-401B-8865-82A2E9EFE0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5C1BC0E2-6C76-401B-8865-82A2E9EFE0F4} = {006CB58D-16A9-4C5E-9B98-9062054541D7}
+	EndGlobalSection
+EndGlobal

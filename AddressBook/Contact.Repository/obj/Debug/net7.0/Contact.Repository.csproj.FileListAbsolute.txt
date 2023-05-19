@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\Contact.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\Contact.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\Contact.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\Contact.Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\Contact.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\bin\Debug\net7.0\Contact.Repository.deps.json
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\bin\Debug\net7.0\Contact.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\bin\Debug\net7.0\Contact.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\bin\Debug\net7.0\Contact.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\bin\Debug\net7.0\Contact.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\Contact.Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\Contact.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\refint\Contact.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\Contact.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\GoldChallengeBadge\AddressBook\Contact.Repository\obj\Debug\net7.0\ref\Contact.Repository.dll

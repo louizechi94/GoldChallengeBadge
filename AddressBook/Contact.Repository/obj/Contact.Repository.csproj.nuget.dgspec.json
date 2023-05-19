@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Repository\\Contact.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Data\\Contact.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Data\\Contact.Data.csproj",
+        "projectName": "Contact.Data",
+        "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Data\\Contact.Data.csproj",
+        "packagesPath": "C:\\Users\\ouiza\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ouiza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Repository\\Contact.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Repository\\Contact.Repository.csproj",
+        "projectName": "Contact.Repository",
+        "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Repository\\Contact.Repository.csproj",
+        "packagesPath": "C:\\Users\\ouiza\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ouiza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Data\\Contact.Data.csproj": {
+                "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\GoldChallengeBadge\\AddressBook\\Contact.Data\\Contact.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
